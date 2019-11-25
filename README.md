@@ -2,6 +2,10 @@
 
 An automatic certificate generator for events according to multiple input files like csv, xlsx, numbers and shoots emails with generated certificates.
 
+## Tools used
+
+ - itext for template to pdf conversion. See [here](https://itextpdf.com/en/resources/books/itext-7-converting-html-pdf-pdfhtml/intro) for details.
+
 ## Setting up environment
 
 - Install JDK 8 or above
